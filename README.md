@@ -21,3 +21,10 @@ In this paper, we present a drone based RGB-Thermal crowd counting dataset (Dron
 
 
 ## Reference
+@InProceedings{Peng_2020_ACCV,
+    author    = {Peng, Tao and Li, Qing and Zhu, Pengfei},
+    title     = {RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {November},
+    year      = {2020}
+}
