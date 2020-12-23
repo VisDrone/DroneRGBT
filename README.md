@@ -10,10 +10,10 @@ In this paper, we present a drone based RGB-Thermal crowd counting dataset (Dron
 ## Dataset
 
 Baidu Cloud:
-Two-MDOT (code:)
-Three-MDOT (code:)
-Google Drive:
-google link will be released soon.
+Two-MDOT (code:)  
+Three-MDOT (code:)  
+Google Drive:  
+google link will be released soon.  
 
 ## Code
 ![pipeline](https://github.com/VisDrone/DroneRGBT/blob/main/pipeline.jpg)
