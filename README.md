@@ -18,7 +18,10 @@ Google Drive:
 google link will be released soon.  
 
 ## Code
+
+The code can be downloaded from:
 [Code](https://pan.baidu.com/s/19uWsu7_1990_aVyinTy8Yg)(code: nyx0)
+
 ![pipeline](https://github.com/VisDrone/DroneRGBT/blob/main/pipeline.jpg)
 
 
