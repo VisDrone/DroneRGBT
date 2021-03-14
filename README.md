@@ -12,7 +12,7 @@ In this paper, we present a drone based RGB-Thermal crowd counting dataset (Dron
 ## Dataset
 
 Baidu Cloud:  
-[DroneRGBT](https://pan.baidu.com/s/1DpeFVL0RGN7JjikGKlhmmQ)(code: 50rv)
+[DroneRGBT](https://pan.baidu.com/s/1GSuLVk4siUZwlhDhOeVB-Q)(code: vvqt)
 
 Google Drive:  
 google link will be released soon.  
