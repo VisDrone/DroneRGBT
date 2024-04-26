@@ -15,7 +15,8 @@ Baidu Cloud:
 [DroneRGBT](https://pan.baidu.com/s/18E7OwGrR3n6WZpyQMrSK8w?pwd=1895)(code: 1895 )
 
 GitHub link:
- 
+[DroneRGBT](https://github.com/VisDrone/DroneRGBT/releases/download/v1.0/DroneRGBT.zip)
+
 
 ## Code
 
