@@ -12,21 +12,28 @@ In this paper, we present a drone based RGB-Thermal crowd counting dataset (Dron
 ## Dataset
 
 Baidu Cloud:  
+
 [DroneRGBT](https://pan.baidu.com/s/18E7OwGrR3n6WZpyQMrSK8w?pwd=1895)(code: 1895 )
 
 GitHub link:
+
 [DroneRGBT](https://github.com/VisDrone/DroneRGBT/releases/download/v1.0/DroneRGBT.zip)
 
 
 ## Code
 
 The code can be downloaded from:
-[Code](https://pan.baidu.com/s/19uWsu7_1990_aVyinTy8Yg)(code: nyx0)
+- Baidu Cloud
+[Code](https://pan.baidu.com/s/1DWxBkwAqXlUs8iU-Xkge4w?pwd=1895)(code: 1895)
+
+- GitHub Link
+
 
 ![pipeline](https://github.com/VisDrone/DroneRGBT/blob/main/pipeline.jpg)
 
 
 ## Reference
+```bibtex
 @InProceedings{Peng_2020_ACCV,  
     author    = {Peng, Tao and Li, Qing and Zhu, Pengfei},  
     title     = {RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network},  
@@ -34,3 +41,4 @@ The code can be downloaded from:
     month     = {November},  
     year      = {2020}  
 }
+```
